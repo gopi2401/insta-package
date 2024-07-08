@@ -1,9 +1,9 @@
 # insta-package
 
-[![npm version](https://badge.fury.io/js/insta.svg)](https://badge.fury.io/js/insta)
+[![npm version](https://badge.fury.io/js/insta-package.svg)](https://badge.fury.io/js/insta-package)
 [![Build Status](https://travis-ci.org/gopi2401/insta-package.svg?branch=master)](https://travis-ci.org/gopi2401/insta-package)
 [![GitHub license](https://img.shields.io/github/license/gopi2401/insta-package)](https://github.com/gopi2401/insta-package/blob/main/LICENSE)
-[![Npm package monthly downloads](https://badgen.net/npm/dm/insta)](https://npmjs.com/package/insta)
+[![Npm package monthly downloads](https://badgen.net/npm/dm/insta-package)](https://npmjs.com/package/insta-package)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gopi2401/insta-package?style=flat)
 
 <!-- [![Dependencies Status](https://david-dm.org/gopi2401/insta-package/status.svg)](https://david-dm.org/gopi2401/insta-package)
