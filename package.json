@@ -1,0 +1,63 @@
+{
+  "name": "insta-package",
+  "version": "0.0.1",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "Instagram",
+    "Downloader",
+    "Download",
+    "Media",
+    "link",
+    "Photo",
+    "Video",
+    "Videos",
+    "Url",
+    "Picture",
+    "image",
+    "Images",
+    "download",
+    "insta",
+    "Stories",
+    "Node.js",
+    "Instagram API",
+    "Social Media",
+    "Media Downloader",
+    "Instagram Downloader",
+    "JavaScript",
+    "API Integration",
+    "IG Media Download",
+    "Social Media Tools"
+  ],
+  "author": {
+    "name": "gopi",
+    "email": "gopi2401coc@gmail.com"
+  },
+  "license": "MIT",
+  "description": "This Node.js package provides a simple and efficient way to download media from Instagram. Whether you need to download images, videos, or stories, this package makes it easy with minimal setup. Designed for developers, this package supports various media formats and ensures quick downloads, making it perfect for both personal use and larger projects. With straightforward API calls, you can integrate Instagram media downloading functionality into your applications effortlessly.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopi2401/insta-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gopi2401/insta-package/issues"
+  },
+  "homepage": "https://github.com/gopi2401/insta-package#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "rollup": "^4.18.0"
+  },
+  "files": [
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "private": false
+}
