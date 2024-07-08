@@ -1,4 +1,4 @@
-# insta
+# insta-package
 
 [![npm version](https://badge.fury.io/js/insta.svg)](https://badge.fury.io/js/insta)
 [![Build Status](https://travis-ci.org/gopi2401/insta-package.svg?branch=master)](https://travis-ci.org/gopi2401/insta-package)
@@ -24,23 +24,23 @@
 To install the package, run:
 
 ```bash
-npm install insta
+npm install insta-package
 ```
 
 or
 
 ```bash
-npm i insta
+npm i insta-package
 ```
 
 ## Usage
 
-To use the `insta` package, follow the example below. This package allows you to fetch data from Instagram posts.
+To use the `insta-package` package, follow the example below. This package allows you to fetch data from Instagram posts.
 
 ### Example
 
 ```javascript
-const insta = require("insta");
+const insta = require("insta-package");
 
 async function test(url) {
   try {
@@ -54,7 +54,7 @@ async function test(url) {
 test("https://www.instagram.com/reel/C9HytkYS4Hc/?utm_source=ig_web_copy_link");
 ```
 
-#### Output
+### Output
 
 The `result` object contains the data fetched from the Instagram post. You can adjust the code to process this data as needed.
 

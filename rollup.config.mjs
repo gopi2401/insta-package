@@ -1,7 +1,7 @@
 export default {
     input: 'src/main.js',
     output: {
-        name: 'insta',
+        name: 'insta-package',
         file: 'dist/bundle.js',
         format: 'umd'
     }
